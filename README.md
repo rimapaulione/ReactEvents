@@ -2,8 +2,8 @@
 
 <p> ReactEvents is a React application built with react-router-dom, designed to assist users in adding and removing their events and maintaining a list of events with dates and descriptions. Users can view the events list without signing in, but signing in is required for adding, editing, or removing events, and this is only accessible to registered users. Users can also sign up for a newsletter, although it is currently not fully functional; users will receive an alert upon registration. This functionality was added to illustrate the use of the useFetch hook. This application is an educational project offered as part of a course by Maximilian Schwarzmüller.</p>
 
-<img src="/src/assets/reacteventslogin.png" alt="ReactEvents login" >
-<img src="/src/assets/reactevents.png" alt="ReactEvents events list" >
+<img src="frontend/src/assets/reacteventslogin.png" alt="ReactEvents login" >
+<img src="frontend/src/assets/reactevents.png" alt="ReactEvents events list" >
 
 ## Used in App:
 
